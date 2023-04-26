@@ -34,7 +34,7 @@ It covers the following topics:
 
 3. [Kubernetes Cluster 101](notes/k8scluster): (*TODO*)
 
-4. [Software Development with Kubernetes/GKE](notes/softwaredev):
+4. [Software Development with Kubernetes/GKE](notes/softwaredev): (*In Progress*)
 
     * What is DevOps? 
     * Local Kubernetes Development 
