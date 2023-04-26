@@ -34,17 +34,14 @@ It covers the following topics:
 
 3. [Kubernetes Cluster 101](notes/k8scluster): (*TODO*)
 
----
-
 4. [Software Development with Kubernetes/GKE](notes/softwaredev):
 
-* What is DevOps? 
-* Local Kubernetes Development 
-* Continuous Integration + deploying to Staging clusters
-* Continuous Deployment + Canary Deployments in Kubernetes 
-* Tools/Products: GKE, kustomize, skaffold, Cloud Build, Argo  
+    * What is DevOps? 
+    * Local Kubernetes Development 
+    * Continuous Integration + deploying to Staging clusters
+    * Continuous Deployment + Canary Deployments in Kubernetes 
+    * Tools/Products: GKE, kustomize, skaffold, Cloud Build, Argo  
 
----
 5. [Observability](notes/observability): (*TODO*)
 
 6. [Design Patterns and Application Architecture](notes/designpatterns): (*TODO*)
