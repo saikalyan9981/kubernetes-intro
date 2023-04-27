@@ -5,14 +5,7 @@ title: Intro to Kubernetes
 
 
 
-<!-- 
-Create a table where
-image of me in left column, Right column is split into multiple rows 
-Education: Masters CS, University of Montreal(Mila)
-Bachelor's CS, IIT Bombay
-Work: Research Scientist Intern, Nuance-Microsoft; Machine Learning Engineer, Hilabs
-Interests: Software Engineering, Machine Learning Engineering, Data Engineering
--->
+
 <h1> Intro to Kubernetes </h1>
 
 
